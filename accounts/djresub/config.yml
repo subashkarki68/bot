@@ -57,10 +57,10 @@ watch-photo-time: 1-3
 delete-interacted-users: true
 
 ## Unfollow (unfollow jobs)
-unfollow: 60-100
+unfollow: 1-20
 # unfollow-any: 10-20
-unfollow-non-followers: 50-100
-unfollow-any-non-followers: 200-300
+unfollow-non-followers: 10-20
+unfollow-any-non-followers: 20-30
 # unfollow-any-followers: 10-20
 # unfollow-from-file: [usernames1.txt 7-15, usernames2.txt 6]
 
@@ -98,7 +98,7 @@ max-comments-pro-user: 1-2
 # pm-percentage: 30-40
 interact-percentage: 30-40
 follow-percentage: 30-40
-follow-limit: 50
+follow-limit: 150
 skipped-list-limit: 10-15
 skipped-posts-limit: 5
 fling-when-skipped: 0
